@@ -5,7 +5,7 @@ shi de  woyou yao bei xiugaile ne !:
 
 Creating a new branch is quick
 
-Creating a new branch is quick & simple
+Creating a new branch is quick i& simple
 
 
 ??????:w
